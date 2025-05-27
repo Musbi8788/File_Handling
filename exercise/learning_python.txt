@@ -1,0 +1,4 @@
+python is one of the most popular languages in the world.
+In python you create website
+Automate stuff, Build you own AI.
+Data Science and machine learning.
